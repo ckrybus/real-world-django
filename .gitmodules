@@ -42,3 +42,7 @@
 	path = apps/kitsune
 	url = git@github.com:mozilla/kitsune.git
 	branch = main
+[submodule "apps/healthchecks"]
+	path = apps/healthchecks
+	url = git@github.com:healthchecks/healthchecks.git
+	branch = master
