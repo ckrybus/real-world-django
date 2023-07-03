@@ -74,3 +74,7 @@
 	path = apps/bookwyrm
 	url = git@github.com:bookwyrm-social/bookwyrm.git
 	branch = main
+[submodule "apps/pythondotorg"]
+	path = apps/pythondotorg
+	url = git@github.com:python/pythondotorg.git
+	branch = main
