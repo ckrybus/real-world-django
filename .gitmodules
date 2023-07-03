@@ -54,3 +54,7 @@
 	path = apps/taiga-back
 	url = git@github.com:kaleidos-ventures/taiga-back.git
 	branch = main
+[submodule "apps/edx-platform"]
+	path = apps/edx-platform
+	url = git@github.com:openedx/edx-platform.git
+	branch = master
