@@ -38,3 +38,7 @@
 	path = apps/askbot-devel
 	url = git@github.com:ASKBOT/askbot-devel.git
 	branch = master
+[submodule "apps/kitsune"]
+	path = apps/kitsune
+	url = git@github.com:mozilla/kitsune.git
+	branch = main
