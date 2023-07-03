@@ -70,3 +70,7 @@
 	path = apps/bedrock
 	url = git@github.com:mozilla/bedrock.git
 	branch = main
+[submodule "apps/bookwyrm"]
+	path = apps/bookwyrm
+	url = git@github.com:bookwyrm-social/bookwyrm.git
+	branch = main
