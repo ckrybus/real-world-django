@@ -30,3 +30,7 @@
 	path = apps/doccano
 	url = git@github.com:doccano/doccano.git
 	branch = master
+[submodule "apps/djangopackages"]
+	path = apps/djangopackages
+	url = git@github.com:djangopackages/djangopackages.git
+	branch = main
