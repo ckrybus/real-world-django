@@ -26,3 +26,7 @@
 	path = apps/librephotos
 	url = git@github.com:LibrePhotos/librephotos.git
 	branch = dev
+[submodule "apps/doccano"]
+	path = apps/doccano
+	url = git@github.com:doccano/doccano.git
+	branch = master
