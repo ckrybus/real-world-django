@@ -10,3 +10,7 @@
 	path = apps/NewsBlur
 	url = git@github.com:samuelclay/NewsBlur.git
 	branch = master
+[submodule "apps/reviewboard"]
+	path = apps/reviewboard
+	url = git@github.com:reviewboard/reviewboard.git
+	branch = master
