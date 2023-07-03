@@ -2,3 +2,7 @@
 	path = apps/djangoproject.com
 	url = git@github.com:django/djangoproject.com.git
 	branch = main
+[submodule "apps/posthog"]
+	path = apps/posthog
+	url = git@github.com:PostHog/posthog.git
+	branch = master
