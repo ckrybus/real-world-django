@@ -66,3 +66,7 @@
 	path = apps/plane
 	url = git@github.com:makeplane/plane.git
 	branch = develop
+[submodule "apps/bedrock"]
+	path = apps/bedrock
+	url = git@github.com:mozilla/bedrock.git
+	branch = main
