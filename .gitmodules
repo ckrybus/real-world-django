@@ -46,3 +46,7 @@
 	path = apps/healthchecks
 	url = git@github.com:healthchecks/healthchecks.git
 	branch = master
+[submodule "apps/sentry"]
+	path = apps/sentry
+	url = git@github.com:getsentry/sentry.git
+	branch = master
