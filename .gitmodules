@@ -62,3 +62,7 @@
 	path = apps/modoboa
 	url = git@github.com:modoboa/modoboa.git
 	branch = master
+[submodule "apps/plane"]
+	path = apps/plane
+	url = git@github.com:makeplane/plane.git
+	branch = develop
