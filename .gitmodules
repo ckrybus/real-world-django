@@ -14,3 +14,7 @@
 	path = apps/reviewboard
 	url = git@github.com:reviewboard/reviewboard.git
 	branch = master
+[submodule "apps/readthedocs"]
+	path = apps/readthedocs
+	url = git@github.com:readthedocs/readthedocs.org.git
+	branch = main
