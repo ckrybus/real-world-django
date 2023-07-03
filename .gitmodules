@@ -82,3 +82,7 @@
 	path = apps/paperless-ngx
 	url = git@github.com:paperless-ngx/paperless-ngx.git
 	branch = dev
+[submodule "apps/fragdenstaat_de"]
+	path = apps/fragdenstaat_de
+	url = git@github.com:okfde/fragdenstaat_de.git
+	branch = main
