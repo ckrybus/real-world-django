@@ -58,3 +58,7 @@
 	path = apps/edx-platform
 	url = git@github.com:openedx/edx-platform.git
 	branch = master
+[submodule "apps/modoboa"]
+	path = apps/modoboa
+	url = git@github.com:modoboa/modoboa.git
+	branch = master
