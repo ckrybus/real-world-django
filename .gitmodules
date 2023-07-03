@@ -6,3 +6,7 @@
 	path = apps/posthog
 	url = git@github.com:PostHog/posthog.git
 	branch = master
+[submodule "apps/NewsBlur"]
+	path = apps/NewsBlur
+	url = git@github.com:samuelclay/NewsBlur.git
+	branch = master
