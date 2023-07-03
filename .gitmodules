@@ -86,3 +86,7 @@
 	path = apps/fragdenstaat_de
 	url = git@github.com:okfde/fragdenstaat_de.git
 	branch = main
+[submodule "apps/zulip"]
+	path = apps/zulip
+	url = git@github.com:zulip/zulip.git
+	branch = main
