@@ -1,0 +1,4 @@
+[submodule "apps/djangoproject.com"]
+	path = apps/djangoproject.com
+	url = git@github.com:django/djangoproject.com.git
+	branch = main
