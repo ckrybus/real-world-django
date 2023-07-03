@@ -18,3 +18,7 @@
 	path = apps/readthedocs
 	url = git@github.com:readthedocs/readthedocs.org.git
 	branch = main
+[submodule "apps/ArchiveBox"]
+	path = apps/ArchiveBox
+	url = git@github.com:ArchiveBox/ArchiveBox.git
+	branch = dev
