@@ -50,3 +50,7 @@
 	path = apps/sentry
 	url = git@github.com:getsentry/sentry.git
 	branch = master
+[submodule "apps/taiga-back"]
+	path = apps/taiga-back
+	url = git@github.com:kaleidos-ventures/taiga-back.git
+	branch = main
