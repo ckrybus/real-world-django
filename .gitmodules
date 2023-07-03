@@ -22,3 +22,7 @@
 	path = apps/ArchiveBox
 	url = git@github.com:ArchiveBox/ArchiveBox.git
 	branch = dev
+[submodule "apps/librephotos"]
+	path = apps/librephotos
+	url = git@github.com:LibrePhotos/librephotos.git
+	branch = dev
