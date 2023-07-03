@@ -78,3 +78,7 @@
 	path = apps/pythondotorg
 	url = git@github.com:python/pythondotorg.git
 	branch = main
+[submodule "apps/paperless-ngx"]
+	path = apps/paperless-ngx
+	url = git@github.com:paperless-ngx/paperless-ngx.git
+	branch = dev
