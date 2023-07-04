@@ -102,3 +102,7 @@
 	path = apps/pretix
 	url = git@github.com:pretix/pretix.git
 	branch = master
+[submodule "apps/flagsmith"]
+	path = apps/flagsmith
+	url = git@github.com:Flagsmith/flagsmith.git
+	branch = main
