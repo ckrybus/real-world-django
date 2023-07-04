@@ -90,3 +90,7 @@
 	path = apps/zulip
 	url = git@github.com:zulip/zulip.git
 	branch = main
+[submodule "apps/netbox"]
+	path = apps/netbox
+	url = git@github.com:netbox-community/netbox.git
+	branch = develop
