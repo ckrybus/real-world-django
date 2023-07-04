@@ -126,3 +126,7 @@
 	path = apps/saleor
 	url = git@github.com:saleor/saleor.git
 	branch = main
+[submodule "apps/django-cms"]
+	path = apps/django-cms
+	url = git@github.com:django-cms/django-cms.git
+	branch = develop
