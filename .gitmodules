@@ -94,3 +94,7 @@
 	path = apps/netbox
 	url = git@github.com:netbox-community/netbox.git
 	branch = develop
+[submodule "apps/cvat"]
+	path = apps/cvat
+	url = git@github.com:opencv/cvat.git
+	branch = develop
