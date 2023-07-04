@@ -110,3 +110,7 @@
 	path = apps/oncall
 	url = git@github.com:grafana/oncall.git
 	branch = dev
+[submodule "apps/graphite-web"]
+	path = apps/graphite-web
+	url = git@github.com:graphite-project/graphite-web.git
+	branch = master
