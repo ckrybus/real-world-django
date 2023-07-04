@@ -114,3 +114,7 @@
 	path = apps/graphite-web
 	url = git@github.com:graphite-project/graphite-web.git
 	branch = master
+[submodule "apps/Django-CRM"]
+	path = apps/Django-CRM
+	url = git@github.com:MicroPyramid/Django-CRM.git
+	branch = master
