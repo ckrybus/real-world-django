@@ -130,3 +130,7 @@
 	path = apps/django-cms
 	url = git@github.com:django-cms/django-cms.git
 	branch = develop
+[submodule "apps/django-oscar"]
+	path = apps/django-oscar
+	url = git@github.com:django-oscar/django-oscar.git
+	branch = master
