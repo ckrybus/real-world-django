@@ -106,3 +106,7 @@
 	path = apps/flagsmith
 	url = git@github.com:Flagsmith/flagsmith.git
 	branch = main
+[submodule "apps/oncall"]
+	path = apps/oncall
+	url = git@github.com:grafana/oncall.git
+	branch = dev
