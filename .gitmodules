@@ -122,3 +122,7 @@
 	path = apps/wagtail
 	url = git@github.com:wagtail/wagtail.git
 	branch = main
+[submodule "apps/saleor"]
+	path = apps/saleor
+	url = git@github.com:saleor/saleor.git
+	branch = main
