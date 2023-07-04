@@ -98,3 +98,7 @@
 	path = apps/cvat
 	url = git@github.com:opencv/cvat.git
 	branch = develop
+[submodule "apps/pretix"]
+	path = apps/pretix
+	url = git@github.com:pretix/pretix.git
+	branch = master
