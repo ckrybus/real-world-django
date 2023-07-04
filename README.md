@@ -9,6 +9,8 @@ learning aid. You&rsquo;ll find the source code in the [`apps/`](apps/) subdirec
 
 ## How to install on your computer
 
+Make sure you have enough free disk space available. Currently ~9GB are needed.
+
 ```bash
 # Clone this git repo:
 git clone git@github.com:ckrybus/real-world-django.git
