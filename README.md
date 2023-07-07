@@ -64,11 +64,17 @@ git submodule update --init
 
 ## Other Real World Codebase Collections
 
-- Real World Sinatra https://github.com/jeromedalbert/real-world-sinatra
-- Real World Ember https://github.com/eliotsykes/real-world-ember
+- Real world React apps https://github.com/jeromedalbert/real-world-react-apps
+- Real World Rails https://github.com/eliotsykes/real-world-rails
+- Real World React Native https://github.com/jeromedalbert/real-world-react-native
 - Real World Ruby Apps https://github.com/jeromedalbert/real-world-ruby-apps
-- Real World React https://github.com/jeromedalbert/real-world-react
-- Know any others? Please open a PR and add the link here
+- Real World Phoenix https://github.com/szTheory/real-world-phoenix
+- Real World Sinatra https://github.com/jeromedalbert/real-world-sinatra
+- Real World Elixir Apps https://github.com/szTheory/real-world-elixir-apps
+- Real World Ember https://github.com/eliotsykes/real-world-ember
+- Real World RSpec https://github.com/pirj/real-world-rspec
+
+Know any others? Please open a PR and add the link here
 
 ## Information for Contributors
 
