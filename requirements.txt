@@ -1,0 +1,2 @@
+PyGithub==1.59.0
+pre-commit==3.3.3
