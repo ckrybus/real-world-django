@@ -46,7 +46,7 @@ learning aid. You&rsquo;ll find the source code in the [`apps/`](apps/) subdirec
 
 ## How to install on your computer
 
-Make sure you have enough free disk space available. Currently ~9GB are needed.
+Make sure you have enough free disk space available. Currently ~12GB are needed.
 
 ```bash
 # Clone this git repo:
