@@ -52,7 +52,7 @@
 	branch = master
 [submodule "apps/taiga-back"]
 	path = apps/taiga-back
-	url = git@github.com:kaleidos-ventures/taiga-back.git
+	url = git@github.com:taigaio/taiga-back.git
 	branch = main
 [submodule "apps/edx-platform"]
 	path = apps/edx-platform
@@ -65,7 +65,7 @@
 [submodule "apps/plane"]
 	path = apps/plane
 	url = git@github.com:makeplane/plane.git
-	branch = develop
+	branch = preview
 [submodule "apps/bedrock"]
 	path = apps/bedrock
 	url = git@github.com:mozilla/bedrock.git
@@ -96,7 +96,7 @@
 	branch = develop
 [submodule "apps/cvat"]
 	path = apps/cvat
-	url = git@github.com:opencv/cvat.git
+	url = git@github.com:cvat-ai/cvat.git
 	branch = develop
 [submodule "apps/pretix"]
 	path = apps/pretix
