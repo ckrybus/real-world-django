@@ -1,7 +1,7 @@
 [
     {
         "desc": "Developer-first error tracking and performance monitoring",
-        "github_stars": 36721,
+        "github_stars": 38893,
         "home_url": "https://sentry.io",
         "name": "sentry",
         "repo_url": "https://github.com/getsentry/sentry",
@@ -14,6 +14,7 @@
             "django",
             "error-logging",
             "error-monitoring",
+            "fair-source",
             "hacktoberfest",
             "monitor",
             "monitoring",
@@ -23,8 +24,8 @@
         ]
     },
     {
-        "desc": "\ud83d\udd25 \ud83d\udd25 \ud83d\udd25 Open Source JIRA, Linear and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.",
-        "github_stars": 23677,
+        "desc": "\ud83d\udd25 \ud83d\udd25 \ud83d\udd25 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.",
+        "github_stars": 29788,
         "home_url": "http://plane.so",
         "name": "plane",
         "repo_url": "https://github.com/makeplane/plane",
@@ -44,40 +45,31 @@
             "react",
             "redis",
             "rest-api",
+            "typescript",
+            "work-management"
+        ]
+    },
+    {
+        "desc": "\ud83e\udd94 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.",
+        "github_stars": 21465,
+        "home_url": "https://posthog.com",
+        "name": "posthog",
+        "repo_url": "https://github.com/PostHog/posthog",
+        "tags": [
+            "ab-testing",
+            "analytics",
+            "experiments",
+            "feature-flags",
+            "javascript",
+            "python",
+            "react",
+            "session-replay",
             "typescript"
         ]
     },
     {
-        "desc": "Saleor Core: the high performance, composable, headless commerce API.",
-        "github_stars": 19993,
-        "home_url": "https://saleor.io",
-        "name": "saleor",
-        "repo_url": "https://github.com/saleor/saleor",
-        "tags": [
-            "cart",
-            "checkout",
-            "commerce",
-            "composable",
-            "e-commerce",
-            "ecommerce",
-            "graphql",
-            "headless",
-            "headless-commerce",
-            "multichannel",
-            "nextjs",
-            "oms",
-            "payments",
-            "pim",
-            "python",
-            "react",
-            "shop",
-            "shopping-cart",
-            "store"
-        ]
-    },
-    {
         "desc": "Zulip server and web application. Open-source team chat that helps teams stay productive and focused.",
-        "github_stars": 19677,
+        "github_stars": 21356,
         "home_url": "https://zulip.com",
         "name": "zulip",
         "repo_url": "https://github.com/zulip/zulip",
@@ -98,7 +90,7 @@
     },
     {
         "desc": "\ud83d\uddc3 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...",
-        "github_stars": 19594,
+        "github_stars": 21217,
         "home_url": "https://archivebox.io",
         "name": "ArchiveBox",
         "repo_url": "https://github.com/ArchiveBox/ArchiveBox",
@@ -126,40 +118,35 @@
         ]
     },
     {
-        "desc": "A Django content management system focused on flexibility and user experience",
-        "github_stars": 17127,
-        "home_url": "https://wagtail.org",
-        "name": "wagtail",
-        "repo_url": "https://github.com/wagtail/wagtail",
+        "desc": "Saleor Core: the high performance, composable, headless commerce API.",
+        "github_stars": 20682,
+        "home_url": "https://saleor.io",
+        "name": "saleor",
+        "repo_url": "https://github.com/saleor/saleor",
         "tags": [
-            "cms",
-            "django",
+            "cart",
+            "checkout",
+            "commerce",
+            "composable",
+            "ecommerce",
+            "graphql",
             "hacktoberfest",
+            "headless",
+            "headless-commerce",
+            "multichannel",
+            "oms",
+            "order-management",
+            "payments",
+            "pim",
             "python",
-            "wagtail"
-        ]
-    },
-    {
-        "desc": "\ud83e\udd94 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.",
-        "github_stars": 16728,
-        "home_url": "https://posthog.com",
-        "name": "posthog",
-        "repo_url": "https://github.com/PostHog/posthog",
-        "tags": [
-            "ab-testing",
-            "analytics",
-            "experiments",
-            "feature-flags",
-            "javascript",
-            "python",
-            "react",
-            "session-replay",
-            "typescript"
+            "shop",
+            "shopping-cart",
+            "store"
         ]
     },
     {
         "desc": "A community-supported supercharged version of paperless: scan, index and archive all your physical documents",
-        "github_stars": 16432,
+        "github_stars": 19849,
         "home_url": "https://docs.paperless-ngx.com",
         "name": "paperless-ngx",
         "repo_url": "https://github.com/paperless-ngx/paperless-ngx",
@@ -177,9 +164,23 @@
         ]
     },
     {
-        "desc": "The premier source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev",
-        "github_stars": 14850,
-        "home_url": "https://netbox.dev",
+        "desc": "A Django content management system focused on flexibility and user experience",
+        "github_stars": 18155,
+        "home_url": "https://wagtail.org",
+        "name": "wagtail",
+        "repo_url": "https://github.com/wagtail/wagtail",
+        "tags": [
+            "cms",
+            "django",
+            "hacktoberfest",
+            "python",
+            "wagtail"
+        ]
+    },
+    {
+        "desc": "The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/free-netbox-cloud/",
+        "github_stars": 16004,
+        "home_url": "http://netboxlabs.com/oss/netbox/",
         "name": "netbox",
         "repo_url": "https://github.com/netbox-community/netbox",
         "tags": [
@@ -198,7 +199,7 @@
     },
     {
         "desc": "Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.",
-        "github_stars": 11297,
+        "github_stars": 12400,
         "home_url": "https://cvat.ai",
         "name": "cvat",
         "repo_url": "https://github.com/cvat-ai/cvat",
@@ -227,7 +228,7 @@
     },
     {
         "desc": "The easy-to-use and developer-friendly enterprise CMS powered by Django ",
-        "github_stars": 9870,
+        "github_stars": 10165,
         "home_url": "http://www.django-cms.org",
         "name": "django-cms",
         "repo_url": "https://github.com/django-cms/django-cms",
@@ -242,7 +243,7 @@
     },
     {
         "desc": "Open source annotation tool for machine learning practitioners.",
-        "github_stars": 8924,
+        "github_stars": 9492,
         "home_url": "",
         "name": "doccano",
         "repo_url": "https://github.com/doccano/doccano",
@@ -262,22 +263,8 @@
         ]
     },
     {
-        "desc": "The source code that powers readthedocs.org",
-        "github_stars": 7858,
-        "home_url": "https://readthedocs.org/",
-        "name": "readthedocs.org",
-        "repo_url": "https://github.com/readthedocs/readthedocs.org",
-        "tags": [
-            "docs",
-            "mkdocs",
-            "python",
-            "sphinx",
-            "sphinx-doc"
-        ]
-    },
-    {
         "desc": "Open-source cron job and background task monitoring service, written in Python & Django",
-        "github_stars": 7236,
+        "github_stars": 8210,
         "home_url": "https://healthchecks.io",
         "name": "healthchecks",
         "repo_url": "https://github.com/healthchecks/healthchecks",
@@ -291,8 +278,22 @@
         ]
     },
     {
+        "desc": "The source code that powers readthedocs.org",
+        "github_stars": 8018,
+        "home_url": "https://readthedocs.org/",
+        "name": "readthedocs.org",
+        "repo_url": "https://github.com/readthedocs/readthedocs.org",
+        "tags": [
+            "docs",
+            "mkdocs",
+            "python",
+            "sphinx",
+            "sphinx-doc"
+        ]
+    },
+    {
         "desc": "The Open edX LMS & Studio, powering education sites around the world!",
-        "github_stars": 6967,
+        "github_stars": 7385,
         "home_url": "https://openedx.org",
         "name": "edx-platform",
         "repo_url": "https://github.com/openedx/edx-platform",
@@ -303,8 +304,24 @@
         ]
     },
     {
+        "desc": "A self-hosted open source photo management service. This is the repository of the backend.",
+        "github_stars": 6907,
+        "home_url": "",
+        "name": "librephotos",
+        "repo_url": "https://github.com/LibrePhotos/librephotos",
+        "tags": [
+            "django",
+            "exif",
+            "hacktoberfest",
+            "machine-learning",
+            "photo",
+            "python",
+            "selfhosted"
+        ]
+    },
+    {
         "desc": "NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument.",
-        "github_stars": 6703,
+        "github_stars": 6857,
         "home_url": "http://www.newsblur.com",
         "name": "NewsBlur",
         "repo_url": "https://github.com/samuelclay/NewsBlur",
@@ -322,24 +339,8 @@
         ]
     },
     {
-        "desc": "A self-hosted open source photo management service. This is the repository of the backend.",
-        "github_stars": 6479,
-        "home_url": "",
-        "name": "librephotos",
-        "repo_url": "https://github.com/LibrePhotos/librephotos",
-        "tags": [
-            "django",
-            "exif",
-            "hacktoberfest",
-            "machine-learning",
-            "photo",
-            "python",
-            "selfhosted"
-        ]
-    },
-    {
         "desc": "Domain-driven e-commerce for Django",
-        "github_stars": 6085,
+        "github_stars": 6266,
         "home_url": "http://oscarcommerce.com",
         "name": "django-oscar",
         "repo_url": "https://github.com/django-oscar/django-oscar",
@@ -352,7 +353,7 @@
     },
     {
         "desc": "A highly scalable real-time graphing system",
-        "github_stars": 5831,
+        "github_stars": 5888,
         "home_url": "http://graphite.readthedocs.org/",
         "name": "graphite-web",
         "repo_url": "https://github.com/graphite-project/graphite-web",
@@ -368,7 +369,7 @@
     },
     {
         "desc": "Open Source Feature Flagging and Remote Config Service. Host on-prem or use our hosted version at https://flagsmith.com/",
-        "github_stars": 4218,
+        "github_stars": 4801,
         "home_url": "https://flagsmith.com/",
         "name": "flagsmith",
         "repo_url": "https://github.com/Flagsmith/flagsmith",
@@ -395,7 +396,7 @@
     },
     {
         "desc": "Developer-friendly incident response with brilliant Slack integration",
-        "github_stars": 3212,
+        "github_stars": 3473,
         "home_url": "",
         "name": "oncall",
         "repo_url": "https://github.com/grafana/oncall",
@@ -411,7 +412,7 @@
     },
     {
         "desc": "Mail hosting made simple",
-        "github_stars": 2888,
+        "github_stars": 3039,
         "home_url": "https://modoboa.org",
         "name": "modoboa",
         "repo_url": "https://github.com/modoboa/modoboa",
@@ -431,7 +432,7 @@
     },
     {
         "desc": "Social reading and reviewing, decentralized with ActivityPub",
-        "github_stars": 2143,
+        "github_stars": 2242,
         "home_url": "http://joinbookwyrm.com/",
         "name": "bookwyrm",
         "repo_url": "https://github.com/bookwyrm-social/bookwyrm",
@@ -447,16 +448,8 @@
         ]
     },
     {
-        "desc": "Source code to djangoproject.com",
-        "github_stars": 1831,
-        "home_url": "https://www.djangoproject.com/",
-        "name": "djangoproject.com",
-        "repo_url": "https://github.com/django/djangoproject.com",
-        "tags": []
-    },
-    {
         "desc": "Open Source CRM based on Django",
-        "github_stars": 1796,
+        "github_stars": 1943,
         "home_url": "https://bottlecrm.io",
         "name": "Django-CRM",
         "repo_url": "https://github.com/MicroPyramid/Django-CRM",
@@ -472,8 +465,16 @@
         ]
     },
     {
+        "desc": "Source code to djangoproject.com",
+        "github_stars": 1877,
+        "home_url": "https://www.djangoproject.com/",
+        "name": "djangoproject.com",
+        "repo_url": "https://github.com/django/djangoproject.com",
+        "tags": []
+    },
+    {
         "desc": "Ticket shop application for conferences, festivals, concerts, tech events, shows, exhibitions, workshops, barcamps, etc.",
-        "github_stars": 1663,
+        "github_stars": 1841,
         "home_url": "https://pretix.eu",
         "name": "pretix",
         "repo_url": "https://github.com/pretix/pretix",
@@ -491,21 +492,8 @@
         ]
     },
     {
-        "desc": "Askbot is a Django/Python Q&A forum. **Contributors README**: https://github.com/ASKBOT/askbot-devel#how-to-contribute. Commercial hosting of Askbot and support are available at https://askbot.com",
-        "github_stars": 1561,
-        "home_url": "",
-        "name": "askbot-devel",
-        "repo_url": "https://github.com/ASKBOT/askbot-devel",
-        "tags": [
-            "django",
-            "forums",
-            "python",
-            "questions-and-answers"
-        ]
-    },
-    {
         "desc": "An extensible and friendly code review tool for projects and companies of all sizes.",
-        "github_stars": 1531,
+        "github_stars": 1564,
         "home_url": "https://www.reviewboard.org/",
         "name": "reviewboard",
         "repo_url": "https://github.com/reviewboard/reviewboard",
@@ -518,16 +506,32 @@
         ]
     },
     {
+        "desc": "Askbot is a Django/Python Q&A forum. **Contributors README**: https://github.com/ASKBOT/askbot-devel#how-to-contribute. Commercial hosting of Askbot and support are available at https://askbot.com",
+        "github_stars": 1564,
+        "home_url": "",
+        "name": "askbot-devel",
+        "repo_url": "https://github.com/ASKBOT/askbot-devel",
+        "tags": [
+            "django",
+            "forums",
+            "python",
+            "questions-and-answers"
+        ]
+    },
+    {
         "desc": "Source code for python.org",
-        "github_stars": 1451,
+        "github_stars": 1505,
         "home_url": "https://www.python.org",
         "name": "pythondotorg",
         "repo_url": "https://github.com/python/pythondotorg",
-        "tags": []
+        "tags": [
+            "psf",
+            "python"
+        ]
     },
     {
         "desc": "Platform for Mozilla Support",
-        "github_stars": 1250,
+        "github_stars": 1311,
         "home_url": "https://mozilla.github.io/kitsune/",
         "name": "kitsune",
         "repo_url": "https://github.com/mozilla/kitsune",
@@ -535,7 +539,7 @@
     },
     {
         "desc": "Making mozilla.org awesome, one pebble at a time",
-        "github_stars": 1147,
+        "github_stars": 1178,
         "home_url": "https://www.mozilla.org",
         "name": "bedrock",
         "repo_url": "https://github.com/mozilla/bedrock",
@@ -551,8 +555,8 @@
     },
     {
         "desc": "Django Packages is a directory of reusable apps, sites, tools, and more for your Django projects.",
-        "github_stars": 714,
-        "home_url": "http://djangopackages.org",
+        "github_stars": 780,
+        "home_url": "https://djangopackages.org",
         "name": "djangopackages",
         "repo_url": "https://github.com/djangopackages/djangopackages",
         "tags": [
@@ -563,7 +567,7 @@
     },
     {
         "desc": null,
-        "github_stars": 493,
+        "github_stars": 585,
         "home_url": null,
         "name": "taiga-back",
         "repo_url": "https://github.com/taigaio/taiga-back",
@@ -571,7 +575,7 @@
     },
     {
         "desc": "Froide Theme for fragdenstaat.de",
-        "github_stars": 120,
+        "github_stars": 125,
         "home_url": "https://fragdenstaat.de",
         "name": "fragdenstaat_de",
         "repo_url": "https://github.com/okfde/fragdenstaat_de",
